@@ -1,7 +1,7 @@
 Add and remove user
 change the roles
 manage db
-closed the db connection
+closed the mysql db connection
 
 change1
 chagne2 in my db
